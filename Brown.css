@@ -1,0 +1,39 @@
+
+
+@font-face {
+    font-family: 'BrownLLSubRegular';
+    src: url('fonts/BrownLLSubRegular.eot');
+    src: url('fonts/BrownLLSubRegular.eot') format('embedded-opentype'),
+         url('fonts/BrownLLSubRegular.woff2') format('woff2'),
+         url('fonts/BrownLLSubRegular.woff') format('woff'),
+         url('fonts/BrownLLSubRegular.ttf') format('truetype'),
+         url('fonts/BrownLLSubRegular.svg#BrownLLSubRegular') format('svg');
+}
+@font-face {
+    font-family: 'BrownLLWebMedium';
+    src: url('fonts/BrownLLWebMedium.eot');
+    src: url('fonts/BrownLLWebMedium.eot') format('embedded-opentype'),
+         url('fonts/BrownLLWebMedium.woff2') format('woff2'),
+         url('fonts/BrownLLWebMedium.woff') format('woff'),
+         url('fonts/BrownLLWebMedium.ttf') format('truetype'),
+         url('fonts/BrownLLWebMedium.svg#BrownLLWebMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'BrownLLSubLight';
+    src: url('fonts/BrownLLSubLight.eot');
+    src: url('fonts/BrownLLSubLight.eot') format('embedded-opentype'),
+         url('fonts/BrownLLSubLight.woff2') format('woff2'),
+         url('fonts/BrownLLSubLight.woff') format('woff'),
+         url('fonts/BrownLLSubLight.ttf') format('truetype'),
+         url('fonts/BrownLLSubLight.svg#BrownLLSubLight') format('svg');
+}
+@font-face {
+    font-family: 'BrownLLSubBold';
+    src: url('fonts/BrownLLSubBold.eot');
+    src: url('fonts/BrownLLSubBold.eot') format('embedded-opentype'),
+         url('fonts/BrownLLSubBold.woff2') format('woff2'),  
+         url('fonts/BrownLLSubBold.woff') format('woff'),
+         url('fonts/BrownLLSubBold.ttf') format('truetype'),
+         url('fonts/BrownLLSubBold.svg#BrownLLSubBold') format('svg');
+}
